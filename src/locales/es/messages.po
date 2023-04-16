@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/base/Home.js:52
+msgid "contact"
+msgstr "Contacto"
+
+#: src/components/base/Footer.js:18
+msgid "copyright"
+msgstr "Copyright © 2023 - Todos los derechos reservados"
+
+#: src/components/base/Education.js:95
+msgid "education-section"
+msgstr "Educación"
+
+#: src/components/base/Footer.js:21
+msgid "inspired-by"
+msgstr "Inspirado por"
+
+#: src/components/hooks/LanguageSwticher.js:9
+msgid "lang-english"
+msgstr "Inglés"
+
+#: src/components/hooks/LanguageSwticher.js:10
+msgid "lang-french"
+msgstr "Francés"
+
+#: src/components/hooks/LanguageSwticher.js:21
+msgid "lang-pseudo"
+msgstr "Pseudo"
+
+#: src/components/hooks/LanguageSwticher.js:8
+msgid "lang-spanish"
+msgstr "Español"
+
+#: src/components/base/Footer.js:29
+msgid "powered-by"
+msgstr "Impulsado por"
+
+#: src/components/base/Experience.js:114
+msgid "professional-experience"
+msgstr "Experiencia profesional"
+
+#: src/components/base/Home.js:41
+msgid "resume"
+msgstr "Currículum"
+
+#: src/components/base/Skills.js:106
+msgid "skills-section"
+msgstr "Habilidades"
